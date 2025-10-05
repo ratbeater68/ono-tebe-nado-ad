@@ -38,7 +38,8 @@
 	padding-left: 0px;
 }
 
-.header__link { 
+.header__link {
+
 	font-size: 18px;
 	text-decoration: underline;
 }
@@ -222,8 +223,10 @@
 	line-height: 120%;
 }
 
-.card_type_film { 
-	background-image: url(../images/card-lot-01.jpg); 
+.card_type_film {
+
+	background-image: url(../images/card-lot-01.jpg);
+
 }
 
 .card_type_book {
@@ -261,6 +264,7 @@
 	justify-content: center;
 	border-radius: 50%;
 	background: #000;
+
 }
 
 .about__logo-image { 
